@@ -69,6 +69,7 @@ Tools
       - Built an AI-powered medical application using Gemini Vision API and Flask for medicine recognition and analysis.
 
 🏆 Certifications
+
 AI/ML Trainee (Generative AI) – IIIT Nagpur
 
 NVIDIA Deep Learning
@@ -80,16 +81,27 @@ Google Cloud GenAI Exchange Program
 NPTEL – Artificial Intelligence for Managemen
 
 🌱 Currently Learning
+
 Large Language Models (LLMs)
+
 Retrieval-Augmented Generation (RAG)
+
 Agentic AI
+
 LangChain
+
 MCP (Model Context Protocol)
+
 Advanced Data Engineering
+
 Cloud Technologies for AI
 
+
 📫 Connect With Me
-📧 Email: your-khotvijay247@gmail.com
+
+📧 Email: khotvijay247@gmail.com
+
 💼 LinkedIn: https://linkedin.com/in/vijaykhot4
+
 🌐 Portfolio: https://khvijay.github.io/Vijay-Khot-Portfolio-website/
 
