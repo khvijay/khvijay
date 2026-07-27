@@ -55,27 +55,28 @@ Tools
     Streamlit
 
 🚀 Featured Projects
-Customer Churn Prediction
 
-Built machine learning models using Logistic Regression and Random Forest to predict customer churn and generate business insights.
+1) Customer Churn Prediction
+     - Built machine learning models using Logistic Regression and Random Forest to predict customer churn and generate business insights.
 
-Disease Outbreak Prediction
+2) Disease Outbreak Prediction
+     - Developed a predictive analytics solution using healthcare and environmental datasets to forecast disease outbreaks.
 
-Developed a predictive analytics solution using healthcare and environmental datasets to forecast disease outbreaks.
+3) Cryptocurrency Time Series Forecasting
+     - Performed forecasting using ARIMA, Prophet, and LSTM models for cryptocurrency market analysis.
 
-Cryptocurrency Time Series Forecasting
-
-Performed forecasting using ARIMA, Prophet, and LSTM models for cryptocurrency market analysis.
-
-Drug Detect AI
-
-Built an AI-powered medical application using Gemini Vision API and Flask for medicine recognition and analysis.
+4) Drug Detect AI
+      - Built an AI-powered medical application using Gemini Vision API and Flask for medicine recognition and analysis.
 
 🏆 Certifications
 AI/ML Trainee (Generative AI) – IIIT Nagpur
+
 NVIDIA Deep Learning
+
 NVIDIA Natural Language Processing (NLP)
+
 Google Cloud GenAI Exchange Program
+
 NPTEL – Artificial Intelligence for Managemen
 
 🌱 Currently Learning
