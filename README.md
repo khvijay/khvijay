@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vijay Khot</h1>
+<h1 align="center">Hi 👋 I'm Vijay Khot</h1>
 
 <h3 align="center">
 Data Science Trainee @ Exposys Data Labs | AI/ML Engineer | Python Developer
