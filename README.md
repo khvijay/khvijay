@@ -73,7 +73,7 @@ Building intelligent AI solutions through Data Science, Machine Learning & Gener
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,c,mysql"/>
 </p>
 
 ## Data Science
@@ -224,8 +224,12 @@ Building intelligent AI solutions through Data Science, Machine Learning & Gener
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:khotvijay247@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="portfolio:">
+<img src="https://skillicons.dev/icons?i=portfolio"/>
 </a>
 
 </p>
