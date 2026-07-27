@@ -90,5 +90,5 @@ Cloud Technologies for AI
 📫 Connect With Me
 📧 Email: your-khotvijay247@gmail.com
 💼 LinkedIn: https://linkedin.com/in/vijaykhot4
-🌐 Portfolio: (Add your portfolio URL if available)
+🌐 Portfolio: https://khvijay.github.io/Vijay-Khot-Portfolio-website/
 
