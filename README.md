@@ -228,7 +228,7 @@ Building intelligent AI solutions through Data Science, Machine Learning & Gener
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="portfolio:">
+<a href="portfolio: https://khvijay.github.io/Vijay-Khot-Portfolio-website/">
 <img src="https://skillicons.dev/icons?i=portfolio"/>
 </a>
 
